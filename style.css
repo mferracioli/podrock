@@ -149,6 +149,7 @@ h3 .filter li a.active {
 	padding: 1px 0 7px 32px;
 	background: url(images/subscribers.svg) no-repeat;
 	background-size: 25px 25px;
+	color: #1fad50;
 }
 
 @media only screen and (max-width: 640px) {
