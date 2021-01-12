@@ -48,12 +48,14 @@ header nav {
 header h2 {
 	text-align: right;
 	margin-bottom: 20px;
+	font-weight: 200;
 }
 
 header nav h3 {
 	text-align: right;
-	margin-bottom: 20px;
-	font-size: 14px;
+	margin-bottom: 10px;
+	font-size: 16px;
+	font-weight: 200;
 }
 
 header .social {
@@ -77,6 +79,7 @@ header .social li img {
 h3 {
 	margin-bottom: 20px;
 	font-size: 26px;
+	font-weight: 700;
 }
 
 h3 .filter {
@@ -110,7 +113,7 @@ h3 .filter li a.active {
 	/*border: 1px solid #fff;*/
 	border-radius: 10px;
 	margin-bottom: 20px;
-	background: rgba(255,255,255,0.85);
+	background: rgba(255,255,255,0.9);
 	box-shadow: 0px 0px 30px 5px rgba(255,255,255,0.4);
 }
 
@@ -122,7 +125,7 @@ h3 .filter li a.active {
 
 .episodes h4 {
 	margin-bottom: 0;
-	color: #cc9900;
+	color: #c79600;
 	font-size: 20px;
 }
 
