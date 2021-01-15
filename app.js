@@ -1,8 +1,8 @@
-var App {
+var App = {
 	init: function() {
 		Episodes.init();
 	}
-}
+};
 
 var Episodes = {
 
