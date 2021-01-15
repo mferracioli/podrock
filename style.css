@@ -1,7 +1,7 @@
 body, ul, li, h1, h2, h3, h4, h5, p {
 	padding:0;
 	margin:0;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-weight: normal;
 }
 
@@ -142,6 +142,21 @@ h3 .filter li a.active {
 
 .episodes .embed {
 	position: relative;
+	display: none;
+}
+
+.episodes .play {
+	padding: 14px 20px 14px 45px;
+	color: #fff;
+	border-radius: 30px;
+	text-decoration: none;
+	text-transform: uppercase;
+	display: inline-block;
+	background-image: url(images/play.svg);
+	background-repeat: no-repeat;
+	background-color: #1cb351;
+	background-position: 18px 16px;
+	background-size: 15px 15px;
 }
 
 .episodes .embed p {
