@@ -1,0 +1,856 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Podrock - Podcast sobre metal, hardrock e rock em geral.</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="/style.css?cache=202104291612">
+	<link rel="shortcut icon" href="/images/logo.jpg" type="image/x-icon" />
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-8685XMW3E4"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'G-8685XMW3E4');
+	</script>
+
+	<!-- Facebook Pixel Code -->
+	<script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window, document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '458887501776978');
+	fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+	src="https://www.facebook.com/tr?id=458887501776978&ev=PageView&noscript=1"
+	/></noscript>
+	<!-- End Facebook Pixel Code -->
+	
+	<!-- OneSignal -->
+	<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+	<script>
+	  window.OneSignal = window.OneSignal || [];
+	  OneSignal.push(function() {
+	    OneSignal.init({
+	      appId: "3af31536-a819-492e-b07a-57e2428fce1c",
+	    });
+	  });
+	</script>
+</head>
+<body>
+	
+	<div id="fb-root"></div>
+	<script async defer crossorigin="anonymous" src="https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v9.0&autoLogAppEvents=1" nonce="ikLl6yeZ"></script>
+
+	<div class="overall">
+
+		<header>
+			<h1>Podrock</h1>
+			<h2>Podcast sobre metal, hardrock e rock em geral.</h2>
+
+			<nav>
+				<h3>Siga-nos na sua plataforma de podcasts:</h3>
+				<ul class="social">
+					<li><a title="Podrock no Spotify" href="https://open.spotify.com/show/5Ok7HQAqEJluuncI96ShyV?si=5chESLGuSMWyNTnc4TL_PQ"><img src="/images/spotify.png" alt="Podrock no Spotify"></a></li>
+					<li><a title="Podrock no Apple Podcasts" href="https://podcasts.apple.com/us/podcast/podrock/id1481769967?uo=4"><img src="/images/apple.png" alt="Podrock no Apple Podcasts"></a></li>
+					<li><a title="Podrock no Google Podcasts" href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9lOGFhODAwL3BvZGNhc3QvcnNz"><img src="/images/google.png" alt="Podrock no Google Podcasts"></a></li>
+					<li><a title="Podrock no Amazon Music" href="https://www.amazon.com/Podrock/dp/B08JJTJ9B4"><img src="/images/amazon.png" alt="Podrock no Amazon Music"></a></li>
+					<li><a title="Podrock no Anchor.fm" href="https://anchor.fm/podrock"><img src="/images/anchor.png" alt="Podrock no Anchor.fm"></a></li>
+					<li><a title="Podrock no Instagram" href="https://www.instagram.com/podrockbr/"><img src="/images/instagram.png" alt="Podrock no Instagram"></a></li>
+				</ul>
+			</nav>
+		</header>
+
+		<h3>Episódio em destaque</h3>
+
+		<ul class="episodes">
+			<li class="">
+				<h4>Podrock #054 - Melhores Álbuns de 1982</h4>
+				<span class="at">12/01/2022</span>
+				<p>Grandes clássicos estão completando 40 anos. Nós fizemos nosso TOP 10 para eleger os melhores quarentões, será que você sabe quais são eles? Acompanhe conosco, e nos diga qual é o seu preferido?!</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/4SmtGYvV5PeX3SMDrju3wg?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/4SmtGYvV5PeX3SMDrju3wg?si=7ac5ff8fdedd44fb" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+		</ul>
+
+		<h3>
+			Outros Episódios
+
+			<ul class="filter">
+				<li><a class="active" href="#">Todos</a></li>
+				<li><a href="#">Episódios</a></li>
+				<li><a href="#">Drops</a></li>
+				<li><a href="#">Blind Ear</a></li>
+			</ul>
+		</h3>
+
+		<ul class="episodes">
+			<li class="">
+				<h4>Podrock Drops #024 - Judas Priest com uma guitarra só?</h4>
+				<span class="at">13/01/2022</span>
+				<p>É possível imaginar o Judas Priest com uma guitarra só? A banda fez um anúncio que deixou os fãs de cabelo em pé! O que será que vem por aí? Confira no DROPS!</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/7ngXf2tI7xmKtqH1tUQ237?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/7ngXf2tI7xmKtqH1tUQ237?si=087d23a2a07f4395" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="">
+				<h4>Podrock #053 - Melhores Álbuns de 2021</h4>
+				<span class="at">29/12/2021</span>
+				<p>2021 está acabando e é hora de elencar os melhores lançamentos do ano na nossa opinião. Com a ajuda do nosso amigo @gutodalporto, elencamos os 3 preferidos de cada e mais um unânime, totalizando 10 álbuns. Ouça o episódio para saber quais foram as nossas escolhas e nos diga quais foram os seus preferidos.</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/5kOJEvNJuFBX9PnahPmpYL?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/5kOJEvNJuFBX9PnahPmpYL?si=907339aaa5a14555" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="drops">
+				<h4>Podrock Drops #023 - KK's Priest: Sermons of the Sinner - Primeiras Impressões</h4>
+				<span class="at">10/11/2021</span>
+				<p>Neste drops, convidamos nosso amigo e parceiro do PodRock, @leopalmierigibi (dos podcasts @gibinossopodcast e @crossovernerd) para dar suas primeiras impressões sobre o álbum Sermons of the Sinner do KK's Priest, banda formada pelos ex-integrantes do Judas Priest, KK Downing e Tim “Ripper” Owens.</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/0RmFKo8rmvIXRByWn1qNuG?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/0RmFKo8rmvIXRByWn1qNuG?si=75d83b12e9d94d9b" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="">
+				<h4>Podrock #052 - Entrevista com Marcelo Rossi, o fotógrafo do rock!</h4>
+				<span class="at">27/10/2021</span>
+				<p>O episódio desta semana é um papo sensacional com Marcelo Rossi (@mrossifoto). Conhecido por ser o fotógrafo do Rock, ele nos contou sobre sua trajetória, suas experiências com as lendas do Rock e até como ele vê o cenário musical hoje em dia. Ouça o episódio em podrock.com.br ou na sua plataforma de streaming.</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/1JR7KoAgiWPIHqAsjOsTxX" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/1JR7KoAgiWPIHqAsjOsTxX?si=2b4516d310d74196" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="">
+				<h4>Podrock #051 - Iron Maiden: Discografia Comentada</h4>
+				<span class="at">20/10/2021</span>
+				<p>Chegou a hora de falarmos sobre toda a discografia desta banda que é praticamente uma religião! Comentamos disco a disco, com muitas curiosidades que estão no livro “Iron Maiden Álbum por Álbum” super lançamento da editora Belas Letras! Ah lembrando que seguidor do PodRock tem 10% OFF no site da Belas Letras com o cupom EUOUCOPODROCK🤘 </p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/7ejPxjNAFViQclitswxe5l" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/7ejPxjNAFViQclitswxe5l?si=0ebedcee01f442c1" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="drops">
+				<h4>Podrock Drops #022 - Os melhores shows que não fomos.</h4>
+				<span class="at">13/10/2021</span>
+				<p>Sabe aquele show épico que você gostaria de ter ido e não pode? Fizemos este Drops comentando quais foram os nossos.</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/6STONcH4uD99gw4iZTSa6J" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/6STONcH4uD99gw4iZTSa6J?si=OQogFPznTQu0y69f-LNqIg&dl_branch=1" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="">
+				<h4>Podrock #050 - 2 anos de PodRock</h4>
+				<span class="at">06/10/2021</span>
+				<p>São dois anos de Podrock, 50 episódios, 21 Drops, 13 Blind Ears entre outros, totalizando mais de 90 podcasts. O episódio desta semana é um guia comentando tudo o que rolou até aqui. Fica aqui nosso agradecimento para todos convidados, colaboradores e ouvintes. You Rock! 🤘</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/5baJ8jEqneK1yGVpJybWYh" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/5baJ8jEqneK1yGVpJybWYh?si=RXzV794OSYi-ApjMm1NmBg&dl_branch=1" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="drops">
+				<h4>Podrock Drops #021 - Como seria o nosso Rock in Rio?</h4>
+				<span class="at">29/09/2021</span>
+				<p>Quer saber como seria o Rock in Rio se o PodRock pudesse escolher as bandas? Fizemos um Drops comentando nossas escolhas para cada dia. </p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/0trZ9WevL75H4uZDOucol0" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/0trZ9WevL75H4uZDOucol0?si=50e2d73186e440ae" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="">
+				<h4>Podrock #049 - Tudo sobre o Slash</h4>
+				<span class="at">21/09/2021</span>
+				<p>Para comemorar 2 anos de PodRock, fizemos um episódio fantástico, contando tudo sobre este ícone da guitarra! Comentamos todos os álbuns gravados pelo Slash e contamos várias histórias inacreditáveis! Se você quiser ainda mais histórias malucas, não deixe de conferir o livro SLASH, já disponível no site da editora BELAS LETRAS, com desconto exclusivo para você que acompanha o PodRock: 10%OFF usando o cupom EUOUCOPODROCK 🤘</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/1B68IuiCEzmylTvLSSjq9W" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/1B68IuiCEzmylTvLSSjq9W?si=741d298f10af4cc7" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="">
+				<h4>Podrock #048 - Precisamos falar sobre o Senjutsu</h4>
+				<span class="at">15/09/2021</span>
+				<p>Pois é galera, Senjutsu é o assunto do momento e não poderíamos deixar de dar nossa opinião sobre ele. Chamamos nosso amigo  @gutodalporto para bater um papo e comentar nossas percepções sobre o disco. E você, o que achou do Senjutsu?</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/0j26h3vsCfP6sQS5kSTwrd" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/0j26h3vsCfP6sQS5kSTwrd?si=6fb22c84da034338" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="">
+				<h4>Podrock #047 - Batalha de Intros de Baixo</h4>
+				<span class="at">08/09/2021</span>
+				<p>Para quem estava com saudades das batalhas épicas no Podrock... Colocamos frente a frente as melhores e mais icônicas intros de baixo para decidir qual a melhor de todos os tempos! Nesta batalha, convidamos nosso amigo especialista @montanhabass (baixista do @maestrickofficial) que deu uma aula sobre o assunto. Ficou imperdível! Ouça agora.</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/5zs205DwGW7gbtodG3O49d" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/5zs205DwGW7gbtodG3O49d?si=8aa73dce584e44ec" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="blindear">
+				<h4>Podrock Blind Ear #013 - Testando Bruno Britto</h4>
+				<span class="at">31/08/2021</span>
+				<p>Bora testar mais um participante do Podrock no Blind Ear? Não teve escapatória, colocamos nosso amigo Bruno Britto (@brunobrittooficial) na fogueira! Ele participou do episódio sobre os nossos álbuns ao vivo preferidos e agora chegou a hora de testa-lo. Ouça como ele se saiu!</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/7bS7SJabNPGhqbKPOqeDWb?theme=0" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/7bS7SJabNPGhqbKPOqeDWb?si=7476d7a4ad6a4aa1" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="">
+				<h4>Podrock #046 - Álbuns ao Vivo: Nossos preferidos!</h4>
+				<span class="at">25/08/2021</span>
+				<p>Quem é que não curte um bom álbum ao vivo? Neste episódio nós selecionamos nossos preferidos e comentamos cada um deles. Para um episódio assim, convidamos um cara que está sempre nos palcos e entende muito do assunto, nosso parceiro Bruno Britto (@brunobrittooficial). Ouça o episódio e comente qual é o seu álbum ao vivo preferido.</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/2k8FT6KkwhdB87nAhwLaU3" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/2k8FT6KkwhdB87nAhwLaU3?si=947a0e4d6e994769" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="">
+				<h4>Podrock #045 - Entrevista com Vinnie Colla do Inglorious</h4>
+				<span class="at">16/08/2021</span>
+				<p>O episódio desta semana é um papo sensacional que tivemos com Vinnie Colla, baixista da banda inglesa Inglorious. Ele contou para nós desde como foi entrar para banda até os próximos planos do Inglorious. Confira agora como foi o papo.</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/3YFS3xCLNnpBTNJZ6P9LpK" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/3YFS3xCLNnpBTNJZ6P9LpK?si=fed345cdc96c4064" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="blindear">
+				<h4>Podrock Blind Ear #012 - Testando Renato Montanha (Maestrick)</h4>
+				<span class="at">09/08/2021</span>
+				<p>Voltamos com o Blind Ear em grande estilo e o participante da vez foi o @renatomontanha_official, baixista do @maestrickofficial. Ouça como ele se saiu!</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/6T6jGvpkFwYt1X4YWpIBos" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/6T6jGvpkFwYt1X4YWpIBos?si=385cbaebf12c44ee" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="">
+				<h4>Podrock #044 - Pais e Filhos no Rock (Especial de Dia dos Pais)</h4>
+				<span class="at">02/08/2021</span>
+				<p>Neste episódio especial de Dia dos Pais, formamos um Power Trio de pais babões junto com o nosso amigo @montanhabass (baixista do @maestrickofficial) para falar de Pais e Filhos no Rock. Um papo bem legal sobre filhos de lendas do Rock que também estão quebrando tudo nos dias de hoje.</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/3aQMalrQkYQ4MITQJ237tE" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/3aQMalrQkYQ4MITQJ237tE?si=KouUfb1hSqWK9qvdK1wLrw&dl_branch=1" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="">
+				<h4>Podrock #043 - Entrevista com Edu Falaschi</h4>
+				<span class="at">26/07/2021</span>
+				<p>Conversamos com Edu Falaschi, ídolo do Metal Nacional, que está completando 30 anos de carreira em alto nível, com o recém lançado VERA CRUZ.</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/3UzD9I8qGJJ970GbcIjeDj?theme=0" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/3UzD9I8qGJJ970GbcIjeDj?si=c0744687ed024c04" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="">
+				<h4>Podrock #042 - Novas bandas internacionais que você precisa conhecer.</h4>
+				<span class="at">19/07/2021</span>
+				<p>Nesta segunda parte do nosso especial MÊS DO ROCK você vai conhecer bandas de diferentes estilos, de diferentes continentes, provando de uma vez por todas que temos rock de muita qualidade nascendo no mundo todo! Novamente contamos com a participação especial do nosso ouvinte e amigo @raffaelcastro. Confira essas bandas e depois nos diga qual a que você mais curtiu! </p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/3SbdYEJ3waMy9Hcgef97e6" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/3SbdYEJ3waMy9Hcgef97e6?si=b6aff8a6fc91466a" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="">
+				<h4>Podrock #041 - Podrock #041 - Novas bandas NACIONAIS que você precisa conhecer.</h4>
+				<span class="at">12/07/2021</span>
+				<p>As novas bandas que você precisa conhecer! Nosso especial MÊS DO ROCK traz pra você as bandas que estão provando que o rock está muito vivo! Este especial é dividido em duas partes, bandas nacionais e internacionais, e hoje ficamos com as bandas nacionais, de norte a sul do Brasil, representando demais! Para um episódio especial, contamos com a participação especial de @raffaelcastro, pela primeira vez convidamos um ouvinte do PodRock para fazer o episódio conosco, e o resultado ficou incrível! Nem só de Sepultura e Angra vive o Brasil, então abra seus ouvidos para as novas bandas, aqui tem dicas para todos os gostos!</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/4zbF7e3v9ewDUCcc1hu8w9" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/4zbF7e3v9ewDUCcc1hu8w9?si=8d45803a26494d12" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="">
+				<h4>Podrock #040 - Edu Falaschi - Vera Cruz: A história contada faixa a faixa!</h4>
+				<span class="at">05/07/2021</span>
+				<p>A história completa do álbum VERA CRUZ! Pois é galera, no mês do Rock o PodRock trará algumas surpresas, e a primeira delas é a participação do genial @fabiocaldeiraofficial que nos contou em detalhes toda história narrada no álbum VERA CRUZ do @edu_falaschi. Aqui você não perde nenhum detalhe!</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/2aiaFuI3cDGK3l5mfxaxzA" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/2aiaFuI3cDGK3l5mfxaxzA?si=hvuyLk2jRNOsid1s0BLmZQ" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="ontheroad">
+				<h4>On the Road #004 - Angus Young: "Pode ser a palheta que usei ontem?"</h4>
+				<span class="at">28/06/2021</span>
+				<p>"Posso te dar a palheta que usei ontem?" Quantas pessoas você conhece que já ouviram isso direto de Angus Young, uma das maiores lendas da guitarra da história? Nosso amigo Walter Poletti da banda Psicodella (@psicodella) teve esta honra e nos contou tudo sobre os dias em que pode conhecer todos os membros do AC/DC. Comente qual lenda do Rock você tem vontade de conhecer pessoalmente.</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/4ESaOPsfK3SocVLLc0ezWn" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/4ESaOPsfK3SocVLLc0ezWn?si=4d5085f9aa1c47b8" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="">
+				<h4>Podrock #039 - AC/DC: Melhores Álbuns</h4>
+				<span class="at">21/06/2021</span>
+				<p>Chegou a hora de falar do gigante australiano que é para muita gente, um símbolo do Rock'n'Roll. Com uma discografia excelente e bastante linear, fica difícil escolher os melhores discos, mas encaramos este desafio com o nosso amigo Walter Poletti da banda Psicodella (@psicodella) que é grande fã da banda. Qual o seu disco preferido do AC/DC? Diga nos comentários. </p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/2TOEucaJ6Fa3CVweQGUaFR" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/2TOEucaJ6Fa3CVweQGUaFR?si=21ea9602ac0c4c14" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="bandasqueamamos">
+				<h4>Bandas que Amamos #004 - Manowar</h4>
+				<span class="at">14/06/2021</span>
+				<p>Manowar: esta banda americana tem uma postura que divide opiniões, mas ninguém pode negar o poder do seu som! Falamos aqui, de forma rápida e direta, um pouco da história e dos principais discos e músicas da banda capitaneada pelo baixista Joey DeMaio, sempre com destaque para o fenomenal vocalista Eric Adams. Conta pra gente qual seu disco preferido da banda! Ou será que... você não conhece o Manowar???! Hail and Kill!</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/6wfGbdIKVAT2gUgBY5wuSV" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/6wfGbdIKVAT2gUgBY5wuSV?si=be483bd55bd74dd4" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="">
+				<h4>Podrock #038 - As Máquinas de Baladas: Especial Dia dos Namorados</h4>
+				<span class="at">07/06/2021</span>
+				<p>Neste episódio especial para o Dia dos Namorados, falamos das Máquinas de Baladas. São bandas que gostam de falar de amor e possuem muitas... muitas... muitas baladas ao longo de suas carreiras. Sobe o som e curta as dicas para os rockers apaixonados. Comente qual a Máquina de Balada que você mais curte.</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/485Pjt1VUgAwQrfwXEQ7vq" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/485Pjt1VUgAwQrfwXEQ7vq?si=680f5e72f19349f6" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="bandasqueamamos">
+				<h4>Bandas que Amamos #003 - Alice in Chains</h4>
+				<span class="at">31/05/2021</span>
+				<p>Hoje no "Bandas que amamos" vamos falar do Alice in Chains. Liderada pelo guitarrista Jerry Cantrell, surgiu nos anos 90 fazendo um estilo de som mais pesado que as demais bandas do movimento de Seattle. A banda está na ativa até hoje, apesar da perda do frontman Layne Staley em 2002. Você curte o Alice in Chains? Comente qual é o seu álbum preferido da banda. Link para ouvir o episódio na Bio.</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/3e6fdgILvWplxsL5Cf3FQ0" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/3e6fdgILvWplxsL5Cf3FQ0?si=1e74ee87d7884ec6" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li>
+				<h4>Podrock #037 - André Matos: Discografia Comentada</h4>
+				<span class="at">24/05/2021</span>
+				<p>Fizemos um episódio inteiro dedicado para falar sobre a discografia do símbolo do metal nacional, maestro André Matos. Uma carreira impecável com discos que são marcos na história do metal. Neste episódio contamos com a participação do nosso amigo e Youtuber Ederson Leão (@edersoncleao), que é grande fã do maestro. Qual o seu álbum preferido da carreira do André Matos? Diga nos comentários. </p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed/episode/4Pl9MGGfWskP8jmcjCVSyA" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/4Pl9MGGfWskP8jmcjCVSyA?si=2e671e065d4944d3" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="drops">
+				<h4>Podrock Drops #020 - Edu Falaschi: Vera Cruz - Primeiras Impressões</h4>
+				<span class="at">17/05/2021</span>
+				<p>Vera Cruz é o tão aguardado novo disco solo do Edu Falaschi e nós não poderíamos deixar de comentar nossas primeiras impressões sobre ele.</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/3RhKEiJx6JZJTsGbLCXc93" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/3RhKEiJx6JZJTsGbLCXc93?si=9d730eea7b084a34" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="ontheroad">
+				<h4>On the Road #003 - Ganhei um abraço do Eric Martin</h4>
+				<span class="at">10/05/2021</span>
+				<p>Mais um episódio da série On the Road, agora com Marcelo Pin (@marceloferracioli) contando como foi poder conversar com o Eric Martin do Mr. Big. Dá uma ouvida para saber como foi esse dia.</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/6JhoxmYeO0zdkRfjpqvw0r" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/6JhoxmYeO0zdkRfjpqvw0r?si=TOgILq6xTbCOEuXNypjUCQ" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="bandasqueamamos">
+				<h4>Bandas que Amamos #002 - Skid Row</h4>
+				<span class="at">03/05/2021</span>
+				<p>No nosso segundo episódio do "Bandas que amamos" vamos falar desta banda de New Jersey que é uma das mais importantes na cena de Hard Rock americana dos anos 80, nosso querido Skid Row. Banda liderada por Rachel Bolan e Dave Snake Sabo que teve como vocalista nos seus 3 primeiros discos Sebastian Bach. Ouça o episódio para saber um pouco mais sobre a banda que está na ativa até hoje. E ai, o que você acha do Skid Row? Diga nos comentários. </p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/464Jp9LvzSpd52fKM6BGD9" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/464Jp9LvzSpd52fKM6BGD9?si=9e0ba50db81e4553" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="">
+				<h4>Podrock #036 - Falha Nossa!</h4>
+				<span class="at">26/04/2021</span>
+				<p>Pois é galera, nós erramos, e muito. Neste episódio comentamos alguns dos nossos tropeços nos episódios que foram ao ar. Tem cada pérola... dá uma conferida.</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/6JqjVVbgtPsDHyhyQWmCj8" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/6JqjVVbgtPsDHyhyQWmCj8?si=b0efe27ecb374ce0" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="bandasqueamamos">
+				<h4>Bandas que Amamos #001 - Savatage</h4>
+				<span class="at">19/04/2021</span>
+				<p>Bandas que Amamos é o novo formato onde falaremos rapidamente sobre origem, formações e discografia das bandas que a gente mais gosta. Neste primeiro episódio, selecionamos o Savatage! Esta incrível banda agrada fãs de heavy, hard e prog, com muita qualidade e criatividade em todos os álbuns. Você o som deles?</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/6c0TyJdy8THmVZbKYaRns8" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/6c0TyJdy8THmVZbKYaRns8?si=8f4a701e67a648f4" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li>
+				<h4>Podrock #035 - Álbuns Superestimados enviados pela galera</h4>
+				<span class="at">12/04/2021</span>
+				<p>Nós perguntamos que álbuns vocês acham que são superestimados, ou seja, que os fãs dão mais importância do que deveriam e agora é hora de comentar cada um deles. Essa pauta foi sugestão do nosso amigo e parceiro @igor_br77 lá do @harderapedia. Ouça agora para saber os álbuns que a galera mandou e as nossas opiniões sobre eles.</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/2IQ4bdVlG81614npnk4wdZ" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/2IQ4bdVlG81614npnk4wdZ?si=0147ae14461f4632" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="ontheroad">
+				<h4>On the Road #002 - Fiquei cara a cara com o KISS</h4>
+				<span class="at">05/04/2021</span>
+				<p>Neste segundo episódio da séria On the Road, nosso amigo Denis Mussato (@denisglam) que participou dos episódios sobre a discografia do KISS, conta como foi participar do Meet & Greet com a banda para conhecer os caras. Ouça agora o relato dessa experiência inigualável.</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/5tAuHXwqkeDstu9Q95Z5Mb" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/5tAuHXwqkeDstu9Q95Z5Mb?si=8284b3d5e26a452b" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li>
+				<h4>Podrock #034 - KISS: Discografia Comentada Parte 2</h4>
+				<span class="at">29/03/2021</span>
+				<p>Está no ar a segunda parte da discografia do KISS! Falamos curiosidades e nossas opiniões dos álbuns a partir do Creatures of the Night até o Monster. Neste episódio, contamos novamente com a presença do nosso amigo especialista em KISS, Denis Mussato (@denisglam). Dê o play e sobe o som que este episódio está imperdível.</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/0UDRihiBtLFxVsYHWWO3cn" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/0UDRihiBtLFxVsYHWWO3cn?si=6566195d66a04dc2" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li>
+				<h4>Podrock #033 - KISS: Discografia Comentada Parte 1</h4>
+				<span class="at">22/03/2021</span>
+				<p>Chegou a hora de comentar a discografia mais pedida no Podrock, a do KISS! Percorremos disco a disco de estúdio, contando curiosidades e dando nossa opinião sobre eles. Para nos ajudar com esta discografia incrível e cheia de mudanças no estilo, chamamos um especialista de peso, nosso amigo Denis Mussato (@denisglam) que é uma referência quando se fala de KISS. Dê o play e sobe o som que este episódio está imperdível.</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/2SuRG7lgqyK4Sy1dY56qwt" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/2SuRG7lgqyK4Sy1dY56qwt?si=nbxKltNBSxewUqnock6RrQ" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li class="blindear">
+				<h4>Podrock Blind Ear #011 - Testando Alan Kva</h4>
+				<span class="at">15/03/2021</span>
+				<p>Fala galera! Está no ar mais um Blind Ear, o programa onde testamos os ouvidos do convidado. Desta vez nós testamos nosso amigo Alan Kva (@alankva) que participou do último episódio sobre a Discografia dos Ramones. Ouça agora como ele se saiu.</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/14AJH190kfktmGcSKV8x3z" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+				
+				<div class="comments">
+					<div class="fb-comments" data-href="https://open.spotify.com/episode/14AJH190kfktmGcSKV8x3z?si=uitb1PARTWaxgRXK-Zc2UA" data-width="100%" data-numposts="5"></div>
+				</div>
+			</li>
+			<li>
+				<h4>Podrock #032 - Ramones: Discografia Comentada</h4>
+				<span class="at">08/03/2021</span>
+				<p>Coloque sua jaqueta de couro e venha curtir a discografia comentada dos pais do Punk Rock, os Ramones. Para ajudar a contar as várias curiosidades e avaliar os discos, chamamos nosso amigo e grande fã da banda, Alan Kva (@alankva). Dê o play e sobe o som que este episódio está imperdível.</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/52xsv0kvgyRTJ7V0wx00GB" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+			</li>
+			<li class="ontheroad">
+				<h4>On the Road #001 - Fui ver o Mötley Crüe na Argentina</h4>
+				<span class="at">01/03/2021</span>
+				<p>On the Road é a nova série do PodRock onde vamos contar histórias de viagens, bastidores, encontro com ídolos e tudo mais, quando o assunto é Rock n Roll! Neste primeiro episódio, Neto Cruanes (@nettocr) conta como foi ir para a Argentina ver o Mötley Crüe pela primeira vez. Ouça esta história cheia de perrengues!</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/5WRmYRnrGWmc2wmEZWCTrD" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+			</li>
+			<li class="podrock">
+				<h4>Podrock #031 - Batalha de Solos de Guitarra</h4>
+				<span class="at">20/02/2021</span>
+				<p>Chegou a hora de mais uma batalha épica! Colocamos frente a frente os melhores e mais icônicos solos de guitarra para decidir qual é a melhor solo de todos os tempos! Para nos ajudar, chamamos nosso amigo guitarrista e sócio do Podrock, Léo Palmieri (@lfspalmieri) do podcast @crossovernerd! Ficou imperdível! Ouça agora!</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/6fNnEMlnIM4HBMbbMSDMHP" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+			</li>
+			<li class="blindear">
+				<h4>Podrock Blind Ear #010 - Testando Fábio Caldeira da Maestrick</h4>
+				<span class="at">12/02/2021</span>
+				<p>Fala galera! Está no ar mais um Blind Ear, o programa onde testamos os ouvidos do convidado. Desta vez nós testamos nosso amigo Fábio Caldeira (@fabiocaldeiraofficial) da banda Maestrick (@maestrickofficial) que participou do último episódio sobre os Melhores Álbuns do Rush. Ouça agora como ele se saiu.</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/7jZTEYXpwuyOnBgZuaiqsn" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+			</li>
+			<li class="podrock">
+				<h4>Podrock #030 - Rush: Melhores Álbuns</h4>
+				<span class="at">22/01/2021</span>
+				<p>É hora de assumir o controle e falar dos melhores álbuns do maior Power Trio de todos os tempos, o Rush! Banda que tem uma discografia impecável e uma história incrível. Para nos ajudar a comentar os álbuns e curiosidades da banda, chamamos nosso amigo @fabiocaldeiraofficial da @maestrickofficial. Ouça agora este episódio que ficou animal.</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/4QDZXe3O9tBKQ8G19BNc6D" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+			</li>
+			<li class="drops">
+				<h4>Podrock Drops #019 - Rock na Terra da Rainha</h4>
+				<span class="at">16/01/2021</span>
+				<p>Fala Galera! Neste Drops falamos sobre como anda o Rock na terra da Rainha. Por lá tem um movimento forte de bandas, ainda desconhecidas aqui no Brasil. Ouça para conhecer nossas indicações.</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/4np51SCHTm9lJbiLQ1o98x" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+			</li>
+			<li class="podrock">
+				<h4>Melhores Álbuns de 2020</h4>
+				<span class="at">02/01/2021</span>
+				<p>Apesar de 2020 ter sido um dos piores anos da história, foi um ano recheado de ótimos lançamentos no metal, hard rock ou no rock em geral. Neste episódio, selecionamos os nossos preferidos. Ouça agora.</p>
+
+				<a href="#" class="play">Ouvir Episódio</a>
+
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/2YJ9HxtX4xRBwgGhluPrnD" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+					<!-- <p>Não esqueça de nos seguir!</p> -->
+				</div>
+			</li>
+			<li class="blindear">
+				<h4>Podrock Blind Ear #009 - Testando Mauricio Lopes</h4>
+				<span class="at">26/12/2020</span>
+				<p>Fala galera! Está no ar mais um Blind Ear, o programa onde testamos os ouvidos do convidado. Desta vez nós testamos nosso amigo Mauricio Lopes (@mauriciolopesofficial) da banda Motordrunk (@motordrunk) que participou do último episódio sobre os Melhores Álbuns do Motörhead. Ouça agora como ele se saiu.</p>
+				<a href="#" class="play">Ouvir Episódio</a>
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/1O93n5UA0XiChScbkWr2HU" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+			</li>
+			<li class="podrock">
+				<h4>Podrock #028 - Motörhead: Melhores Álbuns</h4>
+				<span class="at">12/12/2020</span>
+				<p>Neste episódio elencamos os álbuns que mais gostamos desta banda que agrada gregos e troianos, o Motörhead. Para nos ajudar, chamamos nosso amigo @mauriciolopesofficial da sensacional banda @motordrunk. Ouça agora.</p>
+				<a href="#" class="play">Ouvir Episódio</a>
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/0HrS2NQ2hCuYDWAVxeGkWf" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+			</li>
+			<li class="drops">
+				<h4>Podrock Drops #018 - Onde estão os lançamentos nacionais?</h4>
+				<span class="at">05/12/2020</span>
+				<p>Fala Galera! Neste Drops falamos sobre os lançamentos em mídia física que não estão chegando mais no Brasil. Ouça para entender nossa opinião.</p>
+				<a href="#" class="play">Ouvir Episódio</a>
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/4c81h3065Y8hClJoQTnDfv" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+			</li>
+			<li class="podrock">
+				<h4>Podrock #027 - Batalha de Intros de Batera</h4>
+				<span class="at">28/11/2020</span>
+				<p>Chegou o dia! Fizemos a batalha das intros de batera para decidir qual é a melhor de todos os tempos! Pra fazer isso contamos com a participação de ninguém menos que @ivanbusic do @drsin! Absolutamente imperdível! Ouça agora!</p>
+				<a href="#" class="play">Ouvir Episódio</a>
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/0x6BsHPxGcDpQslaAZRHq9" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+			</li>
+			<li class="drops">
+				<h4>Podrock Drops #017 - Álbuns da Pandemia</h4>
+				<span class="at">20/11/2020</span>
+				<p>Fala Galera! Com a Pandemia, os músicos foram obrigados a ficar em casa e passaram a produzir materiais. Com isso, o ano ficou marcado por vários lançamentos, muitos deles inesperados. Neste drops, comentamos sobre estes álbuns que foram gratas surpresas em 2020.</p>
+				<a href="#" class="play">Ouvir Episódio</a>
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/28YbXcNNMBFckgy5HROu69" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+			</li>
+			<li class="podrock">
+				<h4>Podrock #026 - Plágios no Rock</h4>
+				<span class="at">14/11/2020</span>
+				<p>Fala Galera! Chegou a hora de falarmos dos polêmicos casos de plágio envolvendo artistas do Rock. São semelhanças muito grandes que vão te impressionar, dá uma conferida que o episódio ficou bem legal.</p>
+				<a href="#" class="play">Ouvir Episódio</a>
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/2KPG9Lg6de2kB8SSEokDF7" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+			</li>
+			<li class="drops">
+				<h4>Podrock Drops #016 - Gustavo Carmo: On and Off</h4>
+				<span class="at">06/11/2020</span>
+				<p>Fala Galera! O guitarrista Gustavo Carmo (@_gustavocarmo) lançou seu EP On and Off que conta com um super grupo formado por Rudy Sarzo (@sarzo.rudy), Brian Tichy (@briantichydrums) e Derek Sherinian (@dereksherinianofficial). Confira agora o papo que batemos com ele.</p>
+				<a href="#" class="play">Ouvir Episódio</a>
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/5DiN8loeWoPAkrYPWS4FMB" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+			</li>
+			<li class="podrock">
+				<h4>Podrock #025 - Mulheres no Rock</h4>
+				<span class="at">31/10/2020</span>
+				<p>Fala Galera! Este episódio é totalmente dedicado para elas que quebraram todas as barreias e mostraram que sabem fazer música de excelente qualidade. Chamamos nossos amigos Anie Doná (@anie_psicodella) e Walter Poletti da banda Psicodella (@psicodella) para falar destas mulheres que são ícones do Rock. Dá uma conferida no bate papo que ficou muito legal.</p>
+				<a href="#" class="play">Ouvir Episódio</a>
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/0nfQkBRsXOuCuZJQhmN7zK" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+			</li>
+			<li class="blindear">
+				<h4>Podrock Blind Ear #008 - Testando Tullio Masciarelli</h4>
+				<span class="at">24/10/2020</span>
+				<p>Fala galera! Está no ar mais um Blind Ear, o programa onde testamos os ouvidos do convidado. Desta vez nós testamos nosso amigo Tullio Masciarelli que participou do último episódio de Batalha de Riffs. Ouça agora como ele se saiu.</p>
+				<a href="#" class="play">Ouvir Episódio</a>
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/73Vm2a40VEUOGZdzWVQFB2" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+			</li>
+			<li class="podrock">
+				<h4>Podrock #024 - Batalha de Riffs</h4>
+				<span class="at">16/10/2020</span>
+				<p>Fala Galera! Desta vez o bicho vai pegar! Colocamos os maiores Riffs de guitarra para se confrontarem até sobrar somente 1. E para nos ajudar nesta batalha, chamamos nosso amigo Tullio Masciarelli (@tulliolm), guitarrista da banda Mundog (@rockmundog). Ouça agora o episódio para saber qual foi o Riff vencedor.</p>
+				<a href="#" class="play">Ouvir Episódio</a>
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/5i1bBLRGuKZhN2GOb21Y1k" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+			</li>
+			<li class="blindear">
+				<h4>Podrock Blind Ear #007 - Testando Eduardo Ullian</h4>
+				<span class="at">09/10/2020</span>
+				<p>Fala galera! Está no ar mais um Blind Ear, o programa onde testamos os ouvidos do convidado. Desta vez nós testamos nosso amigo Eduardo Ullian que participou do último episódio sobre a discografia do Mötley Crüe. Ouça agora como ele se saiu.</p>
+				<a href="#" class="play">Ouvir Episódio</a>
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/0bivIcHONnxRzekqx7tsW1" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+			</li>
+			<li class="podrock">
+				<h4>Podrock #023 - Motley Crue: Discografia comentada</h4>
+				<span class="at">02/10/2020</span>
+				<p>Fala Galera! Tirem as crianças da sala que agora é hora de comentar a discografia da banda sinônimo de Sexo, Drogas e Rock n' Roll, o Mötley Crüe. Juntamente com nosso amigo Eduardo Ullian (@eduh_ulian), comentamos todos os álbuns de studio, histórias e curiosidades da banda. Ouça agora este episódio que ficou muito legal.</p>
+				<a href="#" class="play">Ouvir Episódio</a>
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/4SvOvPzu2k0apP8NzYZROq" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+			</li>
+			<li class="blindear">
+				<h4>Podrock Blind Ear #006 - Testando Guto Dal Porto</h4>
+				<span class="at">25/09/2020</span>
+				<p>Fala galera! Está no ar mais um Blind Ear, o programa onde testamos os ouvidos do convidado. Desta vez nós testamos nosso amigo Guto Dal Porto que participou do último episódio sobre Power Trios. Ouça agora como ele se saiu.</p>
+				<a href="#" class="play">Ouvir Episódio</a>
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/03z4046k74qlS1KHzdNjlU" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+			</li>
+			<li class="podrock">
+				<h4>Podrock #022 - Power Trios</h4>
+				<span class="at">18/09/2020</span>
+				<p>Fala galera!!! Sabe aquelas bandas que só têm 3 músicos na formação e fazem uma sonzera melhor que muita banda com um monte de integrantes?  Esses são os Power Trios! Neste episódio chamamos de volta nosso amigo Guto Dal Porto para elencar os Power Trios mais influentes do rock. Ouça agora este episódio que ficou bem legal.</p>
+				<a href="#" class="play">Ouvir Episódio</a>
+				<div class="embed">
+					<iframe src="https://open.spotify.com/embed-podcast/episode/1WzwsWY748hPAIJ92j3ZM8" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+				</div>
+			</li>
+		</ul>
+	</div>
+
+	<script src="/app.js?cache=202104291612" type="application/javascript"></script>
+
+</body>
+</html>
